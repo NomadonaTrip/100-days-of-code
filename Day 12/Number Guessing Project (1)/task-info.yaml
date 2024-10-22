@@ -1,4 +1,5 @@
 type: theory
+custom_name: Number Guessing Project
 files:
   - name: main.py
     visible: true
@@ -9,9 +10,6 @@ files:
   - name: art.py
     visible: true
     learner_created: false
-  - name: game_data.py
-    visible: true
-    learner_created: false
-status: Unchecked
+status: Solved
 record: -1
 post_submission_on_open: true
